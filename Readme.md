@@ -2,7 +2,7 @@
 
 1. Bubble Sort
 2. Merge Sort 
-3. Binary Sort 
+
 
 
  #####Merge Sort
